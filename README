@@ -1,12 +1,19 @@
-This directory contains all of the programs I have created whilst studying Bjarne Stroustrup's "Programming: Principles and Practice using C++." A majority of the programs
-uploaded to this repository were created using the std_lib_facilities.h library included with the book, I have also uploaded the library to this repository for the sake of
+This directory contains all of the programs I have created whilst studying Bjarne Stroustrup's "Programming: Principles
+and Practice using C++." A majority of the programs uploaded to this repository were created using the 
+std_lib_facilities.h library included with the book, I have also uploaded the library to this repository for the sake of
 keeping records.
 
-This was created as a means to organize my work done whilst learning, thus the code is nowhere near perfect and should not be used to check answers.
+This was created as a means to organize my work done whilst learning, thus the code is nowhere near perfect and should 
+not be used to check answers.
 
-Additionally this directory does not contain ALL the work I've done within the book, this directory only includes work I felt was important enough to keep track of.
+Additionally this directory does not contain ALL the work I've done within the book, this directory only includes work 
+I felt was important enough to keep track of.
 
 Formatting Guidelines (mainly so I can remember): 
 "4.08" and "4.12" are exercise #8 and exercise #12 from chapter 4. "5.10" would be exercise 10 from chapter 5.
-"-" means "through" so Exercise4.08-4.12 means the exercises asked for changes to the program on 4.09,4.10,4.11, and 4.12, thus the work contains exercises 4.08 through 4.12.
-"," means "and" so Exercise4.08,4.12 means the exercises only asked for changes on 4.08 and 4.12, so the work only contains those two exercises rather than the intermediate steps.
+
+"-" means "through" so Exercise4.08-4.12 means the exercises asked for changes to the program on 4.09,4.10,4.11, and 4.12, 
+thus the work contains exercises 4.08 through 4.12.
+
+"," means "and" so Exercise4.08,4.12 means the exercises only asked for changes on 4.08 and 4.12, so the work only contains 
+those two exercises rather than the intermediate steps.
