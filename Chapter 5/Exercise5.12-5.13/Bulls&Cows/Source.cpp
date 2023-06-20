@@ -80,7 +80,7 @@ guess:
 		if (playAgain == 'Y' || playAgain == 'y') {
 			goto start;
 		}
-		if (playAgain == 'N' || playAgain == 'y') {
+		if (playAgain == 'N' || playAgain == 'n') {
 			return 0;
 		}
 		else {
