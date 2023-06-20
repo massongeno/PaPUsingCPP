@@ -1,0 +1,14 @@
+﻿  Calculator.cpp
+C:\Users\mason\source\repos\Calculator\Calculator\Calculator.cpp(50,9): error C3861: 'error': identifier not found
+C:\Users\mason\source\repos\Calculator\Calculator\Calculator.cpp(72,28): error C3861: 'error': identifier not found
+C:\Users\mason\source\repos\Calculator\Calculator\Calculator.cpp(78,9): error C3861: 'error': identifier not found
+C:\Users\mason\source\repos\Calculator\Calculator\Calculator.cpp(87,5): error C2660: 'keep_window_open': function does not take 1 arguments
+C:\Users\mason\source\repos\Calculator\Calculator\Calculator.cpp(9,13): message : see declaration of 'keep_window_open'
+C:\Users\mason\source\repos\Calculator\Calculator\Calculator.cpp(87,5): message : while trying to match the argument list '(const char [3])'
+C:\Users\mason\source\repos\Calculator\Calculator\Calculator.cpp(91,5): error C2660: 'keep_window_open': function does not take 1 arguments
+C:\Users\mason\source\repos\Calculator\Calculator\Calculator.cpp(9,13): message : see declaration of 'keep_window_open'
+C:\Users\mason\source\repos\Calculator\Calculator\Calculator.cpp(91,5): message : while trying to match the argument list '(const char [3])'
+C:\Users\mason\source\repos\Calculator\Calculator\Calculator.cpp(96,5): error C2660: 'keep_window_open': function does not take 1 arguments
+C:\Users\mason\source\repos\Calculator\Calculator\Calculator.cpp(9,13): message : see declaration of 'keep_window_open'
+C:\Users\mason\source\repos\Calculator\Calculator\Calculator.cpp(96,5): message : while trying to match the argument list '(const char [3])'
+C:\Users\mason\source\repos\Calculator\Calculator\Calculator.cpp(138,25): error C3861: 'error': identifier not found
