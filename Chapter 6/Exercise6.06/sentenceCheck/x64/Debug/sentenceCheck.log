@@ -1,0 +1,5 @@
+﻿  Source.cpp
+C:\Users\mason\source\repos\sentenceCheck\sentenceCheck\Source.cpp(39,3): error C2561: 'verb': function must return a value
+C:\Users\mason\source\repos\sentenceCheck\sentenceCheck\Source.cpp(30,8): message : see declaration of 'verb'
+C:\Users\mason\source\repos\sentenceCheck\sentenceCheck\Source.cpp(49,3): error C2561: 'conj': function must return a value
+C:\Users\mason\source\repos\sentenceCheck\sentenceCheck\Source.cpp(43,8): message : see declaration of 'conj'
